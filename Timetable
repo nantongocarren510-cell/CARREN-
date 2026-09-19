@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>TIMETABLE</title>
+</head>
+<body>
+  <h1>My weekly timetable </h1>
+  <table border="1">
+    <tr>
+      <th>Day</th>
+      <th>8am-10:05am</th>
+      <th>10:20am-12:05pm</th>
+      <th>12:20pm-02:50pm</th>
+    </tr>
+    <tr>
+      <td>Monday</td>
+      <td>Chemistry</td>
+      <td>Biology</td>
+      <td>Physics</td>
+    </tr>
+    <tr>
+      <td>Tuesday</td>
+      <td>Math</td>
+      <td>History</td>
+      <td>Geography</td>
+    </tr>
+    <tr>
+      <td>Wednesday</td>
+      <td>Entreprenuership</td>
+      <td>Commerce</td>
+      <td>Agriculture</td>
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td>French</td>
+      <td>Luganda</td>
+      <td>English</td>
+    </tr>
+    <tr>
+      <td>Friday</td>
+      <td>CRE</td>
+      <td>Islamic R</td>
+      <td>Resting</td>
+    </tr>
+  </table>
+</body>
+</html>
